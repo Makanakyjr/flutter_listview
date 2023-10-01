@@ -36,6 +36,11 @@ class _MyAppState extends State<MyApp> {
             ),
           ],
         ),
+        floatingActionButton: IconButton(
+          onPressed: () {},
+          icon: Icon(Icons.message_outlined),
+          iconSize: 50.0,
+        ),
       ),
     );
   }

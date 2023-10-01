@@ -26,21 +26,21 @@ var widgets = [
   ),
   const ListTile(
     leading: Text(
-      'EA',
+      'YK',
       style: TextStyle(
         fontSize: 30,
         fontWeight: FontWeight.w600,
       ),
     ),
     title: Text(
-      'Elizabeth Awobotu',
+      'YAKUBU KEHINDE',
       style: TextStyle(
         fontSize: 24,
         fontWeight: FontWeight.w600,
       ),
     ),
     subtitle: Text(
-      'Omo Oba',
+      'My Woman',
     ),
     trailing: CircleAvatar(
       backgroundImage: AssetImage('lib/assets/lizzy.jpg'),
